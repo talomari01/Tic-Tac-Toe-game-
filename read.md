@@ -17,3 +17,4 @@ https://www.w3schools.com
 
 
 game link:file:///Users/turkialomari/project/tic-tac/indox.html
+file:///Users/turkialomari/project/tic-tac/indox.html
