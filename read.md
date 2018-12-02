@@ -14,3 +14,7 @@ name of players
 #Resources 
 https://api.jquery.com/
 https://www.w3schools.com
+
+
+game link:
+https://talomari01.github.io/Tic-Tac-Toe-game-/indox.html
